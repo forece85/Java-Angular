@@ -1,0 +1,16 @@
+Software Introduction and types
+Programming languages vs Scripting languages
+Core JAVA
+JDBC
+SQL VS NOSQL
+WebServers vs ApplicationServers
+Maven
+Frameworks
+Hibernate
+JPA
+SpringBoot
+WebServices & types
+RESTFul WebService
+JSON vs XML
+AngularJS
+Components, Directives, Services
